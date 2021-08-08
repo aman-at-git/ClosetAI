@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/staggered_layout/BuildConfig.java
+ com.example.staggered_layout.BuildConfig
+com/example/staggered_layout/MainActivity.java
+ com.example.staggered_layout.MainActivity

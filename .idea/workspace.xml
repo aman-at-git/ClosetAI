@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9213e508-5560-48da-ba86-09c8c5cccc7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/aman/.android/avd/Pixel_4_XL_API_30.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u4tOpefeUPTNWNkpMZdVACRpyc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="additionalArgs" value="--no-sound-null-safety" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9213e508-5560-48da-ba86-09c8c5cccc7d" name="Default Changelist" comment="" />
+      <created>1623936663915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623936663915</updated>
+    </task>
+    <task id="LOCAL-00001" summary="release">
+      <created>1623950477946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623950477946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="release" />
+    <option name="LAST_COMMIT_MESSAGE" value="release" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624065009182">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1624065009182" />
+    <state x="345" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1625675015915">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="345" y="182" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1625675015915" />
+    <state x="103" y="125" width="859" height="675" key="AVDManager" timestamp="1626791832262">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="103" y="125" width="859" height="675" key="AVDManager/0.25.1440.875@0.25.1440.875" timestamp="1626791832262" />
+    <state x="105" y="25" key="CommitChangelistDialog2" timestamp="1623950477696">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="105" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1623950477696" />
+    <state width="1027" height="251" key="GridCell.Tab.0.bottom" timestamp="1628358435919">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1628086057653" />
+    <state width="1027" height="251" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1628358435919" />
+    <state width="1027" height="251" key="GridCell.Tab.0.center" timestamp="1628358435918">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1628086057652" />
+    <state width="1027" height="251" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1628358435918" />
+    <state width="1027" height="251" key="GridCell.Tab.0.left" timestamp="1628358435917">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1628086057651" />
+    <state width="1027" height="251" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1628358435917" />
+    <state width="1027" height="251" key="GridCell.Tab.0.right" timestamp="1628358435918">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1628086057653" />
+    <state width="1027" height="251" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1628358435918" />
+    <state x="120" y="209" key="IDE.errors.dialog" timestamp="1626805696162">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="120" y="209" key="IDE.errors.dialog/0.25.1440.875@0.25.1440.875" timestamp="1626805696162" />
+    <state x="20" y="41" key="SettingsEditor" timestamp="1628404549462">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="20" y="41" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1628404549462" />
+    <state x="132" y="195" key="Vcs.Push.Dialog.v2" timestamp="1623950610037">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="132" y="195" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1623950610037" />
+    <state x="103" y="125" width="859" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1626366311225">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="103" y="125" width="859" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1626366311225" />
+    <state x="50" y="63" key="new project wizard" timestamp="1624111032683">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="50" y="63" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1624111032683" />
+    <state x="197" y="210" key="run.anything.popup" timestamp="1626803781001">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="197" y="210" key="run.anything.popup/0.25.1440.875@0.25.1440.875" timestamp="1626803781001" />
+    <state x="197" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1628225802906">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="197" y="194" width="670" height="696" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1627953364854" />
+    <state x="197" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1628225802906" />
+  </component>
+</project>
